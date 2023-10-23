@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MakanFery</string>
+    <string name="menu_name">Nama Makan</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="name">Feri Mauliandi Saputra</string>
+    <string name="email">feri.19022004@gmail.com</string>
+    <string name="beli">beli</string>
+    <string name="socmed">connect Linkedin with me!</string>
+    <string name="socialmedia">let\'s connect with me bellow</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="instagram">Instagram</string>
+    <string name="detail">Detail</string>
+    <string name="harga">harga</string>
+    <string name="splash">DineWithPery</string>
+    <string-array name="data_name">
+        <item>Nasi Goreng</item>
+        <item>Mie Bakso</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Sop Ayam</item>
+        <item>Tomyam</item>
+        <item>Brownies Coklat</item>
+        <item>Thaitea</item>
+        <item>Greentea Iced</item>
+        <item>Greentea Milkshake</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Nasi goreng adalah salah satu hidangan populer dalam masakan Indonesia. Ini adalah hidangan nasi yang digoreng bersama dengan berbagai bahan dan bumbu, menciptakan hidangan yang kaya rasa dan tekstur yang beragam.</item>
+        <item>Mie bakso adalah hidangan populer di Indonesia yang terdiri dari mie yang disajikan bersama bakso dan kuah kental yang gurih.</item>
+        <item>Pizza adalah hidangan yang sangat populer di seluruh dunia, berasal dari Italia. Ini terdiri dari selembar roti datar yang dilapisi dengan saus tomat, keju, dan berbagai jenis topping.</item>
+        <item>Pasta adalah hidangan yang berasal dari Italia dan telah menjadi makanan yang populer di seluruh dunia. Ini terbuat dari adonan tepung gandum dan air yang dibentuk menjadi berbagai bentuk seperti spaghetti, penne, fettuccine, dan banyak lainnya.</item>
+        <item>Sop ayam adalah hidangan sup yang terbuat dari ayam, sayuran, dan biasanya kaldu ayam. Ini adalah hidangan yang sangat populer dan sering disajikan di berbagai belahan dunia.</item>
+        <item>Tom Yum (kadang-kadang juga dieja sebagai "tomyam" atau "tom yum") adalah hidangan sup pedas yang berasal dari Thailand dan telah menjadi sangat populer di seluruh dunia. Ini adalah hidangan yang segar dan aromatik yang biasanya disajikan sebagai sup dengan berbagai macam bahan.</item>
+        <item>Brownies coklat adalah salah satu kue paling ikonik dan dicintai di dunia. Ini adalah karya seni yang sempurna dari perpaduan antara kelembutan dan kekentalan yang luar biasa. </item>
+        <item>Thai tea, juga dikenal sebagai "cha yen" dalam bahasa Thailand, adalah minuman populer yang berasal dari Thailand. Minuman ini terkenal karena warnanya yang cerah, rasa manis, dan aroma khas teh dengan sentuhan susu.</item>
+        <item>Teh hijau, juga dikenal sebagai "matcha" di Jepang, adalah jenis teh yang populer dan disukai oleh banyak orang karena memiliki rasa yang khas, warna hijau yang cerah, dan banyak manfaat kesehatan.</item>
+        <item>Green tea milkshake adalah minuman yang menyegarkan yang menggabungkan teh hijau (matcha) dengan susu, es krim, dan pemanis sesuai selera. Ini adalah variasi dari minuman teh hijau yang populer dan nikmat di berbagai tempat.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/miebakso</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/pasta</item>
+        <item>@drawable/sop_ayam</item>
+        <item>@drawable/tomyam</item>
+        <item>@drawable/brownies_coklat</item>
+        <item>@drawable/thaitea</item>
+        <item>@drawable/greantea_iced</item>
+        <item>@drawable/greentea_milkshake</item>
+    </integer-array>
+
+    <string-array name="data_price">
+        <item>Rp 10.000</item>
+        <item>Rp 12.000</item>
+        <item>Rp 32.000</item>
+        <item>Rp 18.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 18.000</item>
+        <item>Rp 10.000</item>
+        <item>Rp 8.000</item>
+        <item>Rp 12.000</item>
+        <item>Rp 18.000</item>
+    </string-array>
+</resources>

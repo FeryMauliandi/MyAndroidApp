@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ProjectAkhir" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#f582ae</item>
+        <item name="colorPrimaryVariant">#001858</item>
+        <item name="colorOnPrimary">#001858</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#001858</item>
+        <item name="colorSecondaryVariant">#172c66</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorSecondary</item>
+    </style>
+
+    <style name="Base.Theme.ProjectAkhir" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">#f582ae</item>
+        <item name="colorPrimaryVariant">#8bd3dd</item>
+        <item name="colorOnPrimary">#001858</item>
+
+    </style>
+
+</resources>
